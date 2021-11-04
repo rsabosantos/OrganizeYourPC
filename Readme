@@ -1,0 +1,19 @@
+Organize Your Files
+By: Richard Santos 
+rsabo2018@gmail.com
+
+
+Intallation 
+
+To use the script you must download and extrat the content on any location on your computer
+The Extensions Folder should be on the same directory where the Script is running from.
+Normally, after extracting the script is good to run with no changes or configurations. 
+
+How to run
+
+Double Click on the script  and select the location you want to organize. You can select from your Desktop, Documents, Pictures or All locations
+
+
+Where are my files
+
+after running the script a file within the same directory with the name YourFiles should apear with organized folders by extensions
